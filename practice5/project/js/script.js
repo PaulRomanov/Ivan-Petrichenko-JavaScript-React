@@ -47,7 +47,7 @@ movieList.innerHTML += `
     <div class="delete"></div>
  </li>
 `
-});S
+});
 
 
 
